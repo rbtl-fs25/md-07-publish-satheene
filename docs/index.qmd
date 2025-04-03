@@ -1,7 +1,7 @@
 ---
 title: "A minimal example"
 date: today
-author: First Last 
+author: Satheene Michel 
 format:
   html:
     toc: true
